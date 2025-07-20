@@ -3,7 +3,7 @@
 # 🧹 Retail Store Data Cleaning (Excel-Based)
 
 <p
-Before Cleaning The Retail Data= 
+Before Cleaning The Retail Data= https://github.com/ayush-data-17/Data-Retail-Sales-Project/blob/main/Before_Cleaning_Retail_Data.csv
 After Cleaning The Retail Data= https://github.com/ayush-data-17/Data-Retail-Sales-Project/blob/main/After_cleaning%20_retail_data.xlsx
 Screenshot of Before Cleaning The Retail Data= https://github.com/ayush-data-17/Data-Retail-Sales-Project/blob/main/BEFORE%20CLEANING%20RETAIL%20STORE%20DATA.png
 Screenshot of After Cleaning The Retail Data= https://github.com/ayush-data-17/Data-Retail-Sales-Project/blob/main/AFTER_CLEANING_SCREENSHOT%20.png
