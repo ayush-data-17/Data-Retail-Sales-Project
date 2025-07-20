@@ -6,7 +6,7 @@
 Before Cleaning The Retail Data= 
 After Cleaning The Retail Data= 
 Screenshot of Before Cleaning The Retail Data= 
-Screenshot of After Cleaning The Retail Data= 
+Screenshot of After Cleaning The Retail Data= https://github.com/ayush-data-17/Data-Retail-Sales-Project/blob/main/AFTER_CLEANING_SCREENSHOT%20.png
 
 ## 🛍️ Project Overview
 
